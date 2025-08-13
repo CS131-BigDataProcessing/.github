@@ -1,4 +1,5 @@
-## Hello and welcome to SJSU CS131 - Big data processing. 👋
+## Hello and welcome to SJSU CS 131 - Processing Big Data: Tools and Techniques. 👋
+
 
 <!--
 
